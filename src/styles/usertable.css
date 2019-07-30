@@ -1,0 +1,59 @@
+
+.table-logo-title {
+  font-size: 1.2rem;
+}
+
+.table-logo-icon {
+  font-size: 2rem;
+}
+
+.table-about-text {
+  font-size: .8rem;
+}
+
+.table-about-icon {
+  font-size: 1.2rem;
+}
+
+.usertable th, td {
+  vertical-align: middle !important;
+  color: #3D648B;
+}
+
+.usertable tr th:first-child, .usertable tr td:first-child {
+  text-align: center;
+  width: 20px;
+}
+
+.usertype {
+  padding: .5rem .7rem;
+  font-size: .8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #384367;
+  background-color: white;
+}
+
+.usertype-co {
+  background-color: #8998c6;
+}
+
+.usertype-cr {
+  background-color: #F1A95F;
+}
+
+.usertype-su {
+  background-color: #B8E4E4;
+}
+
+.usertype-em {
+  background-color: #DF7778;
+}
+
+.usertype-st {
+  background-color: #C9C8C9;
+}
+
+.usertype-gu {
+  background-color: #C9C8C9;
+}
